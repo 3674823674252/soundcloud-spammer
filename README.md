@@ -1,4 +1,4 @@
-# soundcloud-dl-all
+# soundcloud-spammer
 this is an evil twin of soundcloud-dl-all
 
 use it like this:
